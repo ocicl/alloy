@@ -1,0 +1,9 @@
+* alloy
+
+A new user interface protocol and toolkit implementation
+
+|---------+--------------------------------------------|
+| source  | git:https://github.com/Shirakumo/alloy.git |
+| commit  | 48376bc                                    |
+| systems | alloy                                      |
+|---------+--------------------------------------------|
