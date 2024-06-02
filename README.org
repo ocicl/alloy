@@ -5,5 +5,5 @@ A new user interface protocol and toolkit implementation
 |---------+------------------------------------------------------------------------------------------------------------------------|
 | source  | git:https://github.com/Shirakumo/alloy.git                                                                             |
 | commit  | 48376bc                                                                                                                |
-| systems | alloy alloy-markless alloy-windowing alloy-animation alloy-simple-presentations alloy-simple alloy-opengl-fond alloy-opengl-msdf alloy-opengl-png alloy-opengl alloy-glfwlayouts/constraint/alloy-constraint.asd alloy-examples.asd |
+| systems | alloy alloy-markless alloy-windowing alloy-animation alloy-simple-presentations alloy-simple alloy-opengl-fond alloy-opengl-msdf alloy-opengl-png alloy-opengl alloy-glfw/layouts/constraint/alloy-constraint.asd alloy-examples.asd |
 |---------+------------------------------------------------------------------------------------------------------------------------|
